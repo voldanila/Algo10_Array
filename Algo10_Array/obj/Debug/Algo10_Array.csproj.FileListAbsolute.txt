@@ -1,0 +1,7 @@
+C:\Users\Evg\source\repos\Algo10_Array\Algo10_Array\bin\Debug\Algo10_Array.exe.config
+C:\Users\Evg\source\repos\Algo10_Array\Algo10_Array\bin\Debug\Algo10_Array.exe
+C:\Users\Evg\source\repos\Algo10_Array\Algo10_Array\bin\Debug\Algo10_Array.pdb
+C:\Users\Evg\source\repos\Algo10_Array\Algo10_Array\obj\Debug\Algo10_Array.csprojAssemblyReference.cache
+C:\Users\Evg\source\repos\Algo10_Array\Algo10_Array\obj\Debug\Algo10_Array.csproj.CoreCompileInputs.cache
+C:\Users\Evg\source\repos\Algo10_Array\Algo10_Array\obj\Debug\Algo10_Array.exe
+C:\Users\Evg\source\repos\Algo10_Array\Algo10_Array\obj\Debug\Algo10_Array.pdb
